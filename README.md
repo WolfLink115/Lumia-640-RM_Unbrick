@@ -36,3 +36,5 @@ thor2 -mode rnd -bootnormalmode
 
 ```
 If your device goes back to flash mode, Use Windows Phone Internals to flash the ffu again.
+
+## I would like to ask if anyone has any bricked Lumia devices, and has managed to unbrick them to please let me know which files were used, that way I can add them here for others who possibly need it. Thank you all!

@@ -14,6 +14,12 @@ Download the RM-1113 Emergency files: https://www.lumiafirmware.com/model/RM-111
 
 Download the RM-1073 FFU: https://www.lumiafirmware.com/model/RM-1073
 
+### Specific to RM-1077 (untested, please verify if it works, if you bricked your device)
+
+Download the RM-1113 Emergency files: https://www.lumiafirmware.com/model/RM-1113/hwid/059X0Z0 // (Will be linked in the releases page)
+
+Download the RM-1073 FFU: https://www.lumiafirmware.com/model/RM-1077
+
 ## Unbrick Guide
 
 Put the ffufile and emergency files in a folder.

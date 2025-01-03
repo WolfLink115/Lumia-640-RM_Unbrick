@@ -43,4 +43,14 @@ thor2 -mode rnd -bootnormalmode
 ```
 If your device goes back to flash mode, Use Windows Phone Internals to flash the ffu again.
 
+## Troubleshooting Connection Issues / Error 80999
+If the ffu flashing step fails, first check that the phone is detected by thor2:
+```
+thor2 -mode listconnections
+```
+You may need to reboot the phone into emergency mode before flashing the ffu. This can be done by
+```
+thor2 -mode rnd -boot_edmode
+```
+
 ## I would like to ask if anyone has any bricked Lumia devices, and has managed to unbrick them to please let me know which files were used, that way I can add them here for others who possibly need it. Thank you all!
